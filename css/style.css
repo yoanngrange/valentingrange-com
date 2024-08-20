@@ -1,6 +1,10 @@
+
 .content {margin-top: 4rem;}
+
 
 .button {
     position: fixed; /* Fixed/sticky position */
     left: 83rem;
   }
+
+.btn-return{margin-left: 1rem;}
