@@ -40,5 +40,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5c3501",endCo
   margin: 20px;
 }
 
-.pays-de-mario-odeyssey{border-style: ridge;}
+.pays-de-mario-odeyssey{
+  border-style: ridge;
+}
 
