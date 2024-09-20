@@ -30,10 +30,18 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5c3501",endCo
 }
 
 .imgg{
-  border: 15px;
+  border: 13px;
   border-style: ridge;
   margin: 20px;
+  padding: 2;
+  border-color:#dbca12 ;
 }
+/*.immg{
+  
+}
+.iimg{
+  
+}*/
 
 .taille{
   width: 636px;
